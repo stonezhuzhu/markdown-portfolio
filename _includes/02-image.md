@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![somewhere in london](http://www.mafengwo.cn/photo/11124/scenery_5551360/139952995.html)
